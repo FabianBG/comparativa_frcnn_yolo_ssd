@@ -4,5 +4,3 @@ Comparativa de algoritmos de detección de objetos.
 ### YOLO
 
 v2=num*(classes+5) v3=num/3*(classes+5)
-
-revisar archivos de meta y config por caracteres invisibles escribir de nuenvo en blanco

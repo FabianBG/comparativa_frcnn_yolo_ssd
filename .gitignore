@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# Local ignores
+
+dataset/**/*.jpg
+dataset/**/*.txt
+scripts/predicts/*
+yolo_model/data/*
+yolo_model/backup/*
+
