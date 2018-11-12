@@ -1,5 +1,6 @@
 import sys
 import os
+import cv2 as cv
 sys.path.append(os.path.join('/home/mbastidas/git/darknet/python/'))
 import darknet as dn
 from utilities import read_yolo_images, classes_as_dicts, draw_box
@@ -33,6 +34,8 @@ meta = dn.load_meta(meta.encode('utf-8'))
 results = {}
 
 positives = 0
+total = 0
+index = 0
 for d in data:
     #[class, prob, (x,y, w,h)]
     result = {
@@ -43,15 +46,19 @@ for d in data:
     predictions = dn.detect(net, meta, d['image'].encode('utf-8'), thresh=.3)
     print("{} predicions found {}".format(d['image'], len(predictions)))
     if len(predictions) > 0:
-        index = 0
+        image = cv.imread(d['image']) 
         for box in result['boxes']:
             name = classes[int(box[0])]
             for pred in predictions:
+                total = total + 1
                 if pred[0].decode("utf-8") == name:
                     positives = positives + 1
-                    draw_box(d['image'], "{}_{}.jpg".format(name, index), name, pred[2], pred[1])
-                    index = index + 1 
+                    draw_box(image, name, pred[2], pred[1])
+        index = index + 1
+        cv.imwrite("./predicts/{}_{}.jpg".format(name, index), image)
+    else:
+        total = total + 1
 
-print(positives)
-print("Porcentage {}".format(positives / len(data)))
+print("Acertados {} de {}".format(positives, total))
+print("Porcentage {}".format(positives / total))
 

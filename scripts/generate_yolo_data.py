@@ -9,6 +9,7 @@ from utilities import save_file, generate_datasets
 # dataset_path: Path de a carpeta contenedora de las imagenes
 # yolo_path: Folder for copy images 
 # test_percentaje: porcentaje por carpeta de imagenes para pruebas
+# val_percentaje: porcentaje por carpeta de imagenes para pruebas
 
 
 image_ext = ".jpg"
@@ -16,12 +17,14 @@ image_ext = ".jpg"
 dataset_path = sys.argv[1]
 yolo_path = sys.argv[2]
 train_percentaje = float(sys.argv[3])
+val_percentaje = float(sys.argv[4])
 
-train, validate, test, folders = generate_datasets(dataset_path, train_percentaje, yolo_path=yolo_path)
+train, validate, test, folders = generate_datasets(dataset_path,
+train_percentaje, val_percentaje, yolo_path=yolo_path)
            
 save_file(os.path.join(yolo_path, 'train.txt'), train)
 save_file(os.path.join(yolo_path, 'test.txt'), test)
-save_file(os.path.join(yolo_path, 'validation.txt'), test)
+save_file(os.path.join(yolo_path, 'validation.txt'), validate)
 
 print("Se encontro {} directorios".format(len(folders)))
 print("Se copia {} imagenes de entrenamiento".format(len(train)))
