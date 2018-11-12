@@ -10,7 +10,7 @@ from object_detection.utils import dataset_util
 
 def generate_datasets(dataset_path, train_percentaje, yolo_path=None, image_ext=".jpg"):
     train = []
-    valdiate = []
+    validate = []
     test = []
     folders = []
     for path in os.listdir(dataset_path):
@@ -37,7 +37,7 @@ def generate_datasets(dataset_path, train_percentaje, yolo_path=None, image_ext=
             test = test + images[partition:].tolist()
             print("En {} se usa: \n{} entrenamiento \n{} validacion \n{} pruebas"
             .format(directory, validation, partition - validation, len(images) - validation))   
-    return train, valdiate, test, folders
+    return train, validate, test, folders
 
 def save_file(path, data):
     with open(path, "w") as f:
