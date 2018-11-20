@@ -51,9 +51,10 @@ for d in data:
             name = classes[int(box[0])]
             for pred in predictions:
                 total = total + 1
+                print(pred[0].decode("utf-8"), name)
                 if pred[0].decode("utf-8") == name:
                     positives = positives + 1
-                    draw_box(image, name, pred[2], pred[1])
+                draw_box(image, pred[0].decode("utf-8"), pred[2], pred[1], int(box[0]))
         index = index + 1
         cv.imwrite("./predicts/{}_{}.jpg".format(name, index), image)
     else:
