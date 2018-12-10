@@ -18,7 +18,11 @@ from object_detection.dataset_tools import tf_record_creation_util
 import imgaug as ia
 from imgaug import augmenters as iaa
 
-STANDARD_COLORS = [(255,248,240), (215,235,250), (255,255,0), (212,255,127),
+from pycocotools.coco import COCO
+from pycocotools.cocoeval import COCOeval
+import json
+
+STANDARD_COLORS = [
 (255,255,240), (220,245,245), (196,228,255), (0,0,0),
 (205,235,255), (255,0,0), (226,43,138), (42,42,165),
 (135,184,222), (160,158,95), (0,255,127),
@@ -55,7 +59,7 @@ STANDARD_COLORS = [(255,248,240), (215,235,250), (255,255,0), (212,255,127),
 (250,250,255),(127,255,0),(180,130,70),(140,180,210),
 (128,128,0),(216,191,216),(71,99,255),(208,224,64),
 (238,130,238),(179,222,245),(255,255,255),(245,245,245),
-(0,255,255),(50,205,154)]
+(0,255,255),(50,205,154),(255,248,240), (215,235,250), (255,255,0), (212,255,127)]
 
 
 def generate_datasets(dataset_path, train_percentaje, val_percentaje, yolo_path=None, image_ext=".jpg"):
@@ -152,21 +156,27 @@ def classes_as_dicts(classes_file):
     return indexes, classes
 
 
-def draw_box(image, class_name, points_yolo, acc, class_index=0, thickness=5):
-    x = int(points_yolo[0] - (points_yolo[2]/2))
-    y = int(points_yolo[1] - (points_yolo[3]/2))
-    x1 = int(points_yolo[2] + x)
-    y1 = int(points_yolo[3] + y)
-    
+def draw_box(image, class_name, points, acc, class_index=0, thickness=8, shape=None):
+    if not shape:
+        x, y, x1, y1 = convert_axis_no_shape(points)
+    else:
+        x, y, x1, y1 = convert_axis(shape, points)
 
+    x, y, x1, y1 = int(x), int(y), int(x1), int(y1)
     cv.rectangle(image, (x, y), (x + (25 * len(class_name)) , y - 20), STANDARD_COLORS[class_index], -1)
-    cv.rectangle(image, (x, y), (x1, y1), STANDARD_COLORS[class_index], thickness)
+    cv.rectangle(image, (x, y), (x1, y1), STANDARD_COLORS[class_index], 8)
     cv.putText(image, "%.2f %s" % (round(acc, 2), class_name), (x, y-5),
-               cv.FONT_HERSHEY_SIMPLEX, 0.5, (200, 200, 200), 1, cv.LINE_AA)
+               cv.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0), 1, cv.LINE_AA)
+
+def desnormalize(points, shape):
+    x = int(points[0] * shape[1])
+    y = int(points[1] * shape[0])
+    x1 = int(points[2] * shape[1])
+    y1 = int(points[3] * shape[0])
+    return x, y, x1, y1
+
 
 # box x1 x2 y1 y2
-
-
 def convert_yolo(size, box):
     dw = 1./size[1]
     dh = 1./size[0]
@@ -179,9 +189,8 @@ def convert_yolo(size, box):
     y = y*dh
     h = h*dh
     return (x, y, w, h)  # box x1 y1 x2 y2
+
 # box x1 y1 x2 y2
-
-
 def convert_axis(size, box):
     dw = 1./size[1]
     dh = 1./size[0]
@@ -189,13 +198,60 @@ def convert_axis(size, box):
     w = float(box[2])/dw
     y = float(box[1])/dh
     h = float(box[3])/dh
-
     b1 = x + (w/2)
     b3 = y + (h/2)
     b0 = x + (w/2) - w
     b2 = y + (h/2) - h
-
     return (b0, b1, b2, b3)  # box x1 x2 y1 y2
+
+def convert_coco(size, box):
+    dw = 1./size[1]
+    dh = 1./size[0]
+    x = float(box[0])/dw
+    w = float(box[2])/dw
+    y = float(box[1])/dh
+    h = float(box[3])/dh
+    b1 = x + (w/2)
+    b3 = y + (h/2)
+    b0 = x + (w/2) - w
+    b2 = y + (h/2) - h
+    return (b0, b1, b2, b3)  # box x y w h
+
+def convert_axis_no_shape(points_yolo):
+    x = max(0, points_yolo[0] - (points_yolo[2]/2))
+    y = max(0, points_yolo[1] - (points_yolo[3]/2))
+    x1 = points_yolo[2] + x
+    y1 = points_yolo[3] + y
+
+    return (x,y,x1,y1)
+
+
+def calcualte_iou(box_a, box_b, is_yolo=False):
+    box_a = convert_axis_no_shape(box_a)
+    if is_yolo:
+        box_b = convert_axis_no_shape(box_b)
+        
+    # determine the (x, y)-coordinates of the intersection rectangle
+    x_a = max(box_a[0], box_b[0])
+    y_a = max(box_a[1], box_b[1])
+    x_b = min(box_a[2], box_b[2])
+    y_b = min(box_a[3], box_b[3])
+ 
+	# compute the area of intersection rectangle
+    inter_area = max(0, x_b - x_a + 1) * max(0, y_b - y_a + 1)
+ 
+	# compute the area of both the prediction and ground-truth
+	# rectangles
+    box_a_area = (box_a[2] - box_a[0] + 1) * (box_a[3] - box_a[1] + 1)
+    box_b_area = (box_b[2] - box_b[0] + 1) * (box_b[3] - box_b[1] + 1)
+ 
+	# compute the intersection over union by taking the intersection
+	# area and dividing it by the sum of prediction + ground-truth
+	# areas - the interesection area
+    iou = inter_area / float(box_a_area + box_b_area - inter_area)
+ 
+	# return the intersection over union value
+    return iou
 
 
 def generate_classes_pbtxt(path, output_path):
@@ -493,4 +549,21 @@ def generate_augmentations(paths, output_dir, repeats, maximun=-1):
     print("Datos generados ", len(results))
     return results 
         
-        
+
+def coco_eval(anotation, result):
+    with open("ann_file.json", "w") as ann_file:
+        ann_file.write(json.dumps(anotation))
+    with open("res_file.json", "w") as res_file:
+        res_file.write(json.dumps(result))
+    cocoGt = COCO("ann_file.json")
+    cocoDt = cocoGt.loadRes("res_file.json")
+    cocoEval = COCOeval(cocoGt, cocoDt, "bbox")
+    #print("util", cocoGt.anns)
+    #imgIds=sorted(cocoGt.getImgIds())
+    #cocoEval.params.imgIds  = [2]
+    #cocoEval.params.iouThrs  = [x * 0.1 for x in range(0, 10)]
+    cocoEval.evaluate()
+    #print(len(cocoEval.evalImgs))
+    #print(cocoEval.evalImgs)
+    cocoEval.accumulate()
+    cocoEval.summarize()

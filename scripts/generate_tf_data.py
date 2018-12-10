@@ -16,8 +16,8 @@ flags.DEFINE_float('val', 0.7, 'Porcenjaje de division de datos')
 flags.DEFINE_integer('aug', 0, 'Numero de veces a aumentar una imagen')
 FLAGS = flags.FLAGS
 
-shards_train = 20
-shards_validate = 10
+shards_train = 1
+shards_validate = 1
 maximun_aug = -1 #-1 para aumentar completo
 
 def main(_):
