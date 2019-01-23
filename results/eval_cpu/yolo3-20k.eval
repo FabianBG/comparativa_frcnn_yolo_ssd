@@ -1,0 +1,724 @@
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_38.jpg predicions found 79
+IOU 0.8001584546569751
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_100.jpg predicions found 17
+IOU 0.8304172432646969
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_19.jpg predicions found 21
+IOU 0.7429656593099804
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_8.jpg predicions found 28
+IOU 0.8157633077586488
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_206.jpg predicions found 14
+IOU 0.7079568166761129
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_60.jpg predicions found 71
+IOU 0.6378072726171349
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_120.jpg predicions found 12
+IOU 0.8374455452333094
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_200.jpg predicions found 10
+IOU 0.9204880573367816
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_92.jpg predicions found 11
+IOU 0.003969804865880978
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_135.jpg predicions found 3
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_11.jpg predicions found 47
+IOU 0.7829430853443244
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_151.jpg predicions found 4
+IOU 0.7699207810323794
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_43.jpg predicions found 5
+IOU 0.7946652799123989
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_192.jpg predicions found 7
+IOU 0.7935386395757054
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_20.jpg predicions found 53
+IOU 0.7583856347833531
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_78.jpg predicions found 22
+IOU 0.8743718781974938
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_118.jpg predicions found 7
+IOU 0.8818716437021844
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Llanten/llanten_29.jpg predicions found 4
+IOU 0.7714934767246872
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_193.jpg predicions found 26
+IOU 0.640158093582166
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_31.jpg predicions found 3
+IOU 0.7226465908841735
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_147.jpg predicions found 13
+IOU 0.8168657044552209
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_216.jpg predicions found 15
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_85.jpg predicions found 9
+IOU 0.6884520468148063
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_220.jpg predicions found 2
+IOU 0.8738321266437501
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_104.jpg predicions found 8
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_6.jpg predicions found 3
+IOU 0.8569822616173048
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_40.jpg predicions found 3
+IOU 0.6708941365467436
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_163.jpg predicions found 16
+IOU 0.7984762455741786
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_65.jpg predicions found 6
+IOU 0.6112311834340602
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_240.jpg predicions found 8
+IOU 0.8356442488003385
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_224.jpg predicions found 15
+IOU 0.8589585852337266
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_98.jpg predicions found 8
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_167.jpg predicions found 21
+IOU 0.6847948976387618
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_12.jpg predicions found 11
+IOU 0.8219009256671973
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_122.jpg predicions found 7
+IOU 0.7736218388528034
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_186.jpg predicions found 2
+IOU 0.7609281297035465
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_200.jpg predicions found 2
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_84.jpg predicions found 5
+IOU 0.8509611933549193
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_211.jpg predicions found 14
+IOU 0.8314041572859541
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_269.jpg predicions found 31
+IOU 0.7279112805018244
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_174.jpg predicions found 25
+IOU 0.7146444944427822
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_53.jpg predicions found 51
+IOU 0.8570854287296723
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_99.jpg predicions found 21
+IOU 0.7765572309394735
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_77.jpg predicions found 46
+IOU 0.805430453584022
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Valeriana/valeriana_213.jpg predicions found 3
+IOU 0.6249261785477278
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_197.jpg predicions found 12
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_39.jpg predicions found 14
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_45.jpg predicions found 60
+IOU 0.6250614232986933
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_68.jpg predicions found 7
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_31.jpg predicions found 7
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_42.jpg predicions found 11
+IOU 0.6487063873904502
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_236.jpg predicions found 9
+IOU 0.7428268423559617
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_207.jpg predicions found 7
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_278.jpg predicions found 54
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_49.jpg predicions found 13
+IOU 0.7107184401497803
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_104.jpg predicions found 14
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_108.jpg predicions found 14
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_161.jpg predicions found 20
+IOU 0.0023010000984308443
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_255.jpg predicions found 12
+IOU 0.0
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_177.jpg predicions found 3
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_239.jpg predicions found 12
+IOU 0.03459415607557708
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_189.jpg predicions found 24
+IOU 0.49575666552361275
+IOU 0.050761776495203234
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_219.jpg predicions found 51
+IOU 0.75739035120658
+IOU 0.13338876637579639
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_240.jpg predicions found 8
+IOU 0.6744112606204828
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_185.jpg predicions found 35
+IOU 0.7830634354571193
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_211.jpg predicions found 29
+IOU 0.13671517875722097
+IOU 0.0
+IOU 0.7733222853370364
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_181.jpg predicions found 8
+IOU 0.0003496087940885333
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_33.jpg predicions found 6
+IOU 0.7657036471525652
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_94.jpg predicions found 28
+IOU 0.0
+IOU 0.7988916869231015
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_226.jpg predicions found 19
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Canela/canela_56.jpg predicions found 53
+IOU 0.516286834263435
+IOU 0.2868201456426355
+IOU 0.2660376730597019
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_126.jpg predicions found 85
+IOU 0.5956798121612571
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_152.jpg predicions found 6
+IOU 0.8806450478528074
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_17.jpg predicions found 74
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_247.jpg predicions found 9
+IOU 0.6921033480399343
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_92.jpg predicions found 6
+IOU 0.27859704849873
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_115.jpg predicions found 11
+IOU 0.029785831510885662
+IOU 0.02503712371326898
+IOU 0.19906599779024944
+IOU 0.80230301159046
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_82.jpg predicions found 59
+IOU 0.6552673026359506
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_223.jpg predicions found 3
+IOU 0.9489233229582824
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_142.jpg predicions found 15
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_86.jpg predicions found 41
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_94.jpg predicions found 4
+IOU 0.7625603178512422
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_127.jpg predicions found 6
+IOU 0.6328801230172473
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_214.jpg predicions found 31
+IOU 0.914666508892858
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_227.jpg predicions found 2
+IOU 0.5408455335087314
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_133.jpg predicions found 81
+IOU 0.0
+IOU 0.701943447112783
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_111.jpg predicions found 13
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_185.jpg predicions found 6
+IOU 0.8969611733115858
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_75.jpg predicions found 4
+IOU 0.43016787380156346
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_95.jpg predicions found 10
+IOU 0.8419542897589971
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_118.jpg predicions found 7
+IOU 0.6245573768000419
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_123.jpg predicions found 1
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_157.jpg predicions found 31
+IOU 0.7548065786953629
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_217.jpg predicions found 3
+IOU 0.8203224892976905
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_37.jpg predicions found 20
+IOU 0.8268380982771761
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Diente leon/leon_129.jpg predicions found 36
+IOU 0.6102559621311264
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_94.jpg predicions found 61
+IOU 0.6741266898486998
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_119.jpg predicions found 6
+IOU 0.7983825064821013
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_199.jpg predicions found 12
+IOU 0.8722148877265063
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_51.jpg predicions found 10
+IOU 0.6971381557084403
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_221.jpg predicions found 2
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_69.jpg predicions found 62
+IOU 0.038650916020991584
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_176.jpg predicions found 11
+IOU 0.7308804312417835
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_254.jpg predicions found 6
+IOU 0.8456005587511541
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_4.jpg predicions found 29
+IOU 0.7431255419809363
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_92.jpg predicions found 15
+IOU 0.7363607715725089
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_14.jpg predicions found 16
+IOU 0.735380912224232
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_47.jpg predicions found 49
+IOU 0.0
+IOU 0.015109741244524667
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_98.jpg predicions found 13
+IOU 0.5493668951948661
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_44.jpg predicions found 18
+IOU 0.782329975043652
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_144.jpg predicions found 10
+IOU 0.856234078352931
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_228.jpg predicions found 10
+IOU 0.8915489894687405
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_27.jpg predicions found 42
+IOU 0.8194047386574835
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_209.jpg predicions found 3
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_210.jpg predicions found 3
+IOU 0.8557208984079108
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_18.jpg predicions found 72
+IOU 0.7386309213837193
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_26.jpg predicions found 8
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_125.jpg predicions found 8
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_28.jpg predicions found 7
+IOU 0.8855514188119942
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_231.jpg predicions found 27
+IOU 0.8275367222962883
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Manzanilla/manzanilla_29.jpg predicions found 27
+IOU 0.8692823397685554
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_26.jpg predicions found 37
+IOU 0.8187671457537973
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_42.jpg predicions found 43
+IOU 0.82036748919508
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_36.jpg predicions found 5
+IOU 0.9169732237083982
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_108.jpg predicions found 5
+IOU 0.7939590798908971
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_185.jpg predicions found 3
+IOU 0.7263870681844223
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_82.jpg predicions found 8
+IOU 0.6965616862528189
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_187.jpg predicions found 39
+IOU 0.8958313992701157
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_50.jpg predicions found 6
+IOU 0.7288157861632116
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_128.jpg predicions found 2
+IOU 0.8158257718894915
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_63.jpg predicions found 16
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_24.jpg predicions found 13
+IOU 0.8472730663882024
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_207.jpg predicions found 12
+IOU 0.7689538277781408
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_150.jpg predicions found 10
+IOU 0.7278926009826899
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_101.jpg predicions found 16
+IOU 0.7525828745542393
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_119.jpg predicions found 6
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_264.jpg predicions found 6
+IOU 0.8752782331374852
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_129.jpg predicions found 14
+IOU 0.8012727074881413
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_273.jpg predicions found 17
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_217.jpg predicions found 17
+IOU 0.8432129921506527
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_163.jpg predicions found 3
+IOU 0.9241393927022528
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_247.jpg predicions found 7
+IOU 0.8807762208970493
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_140.jpg predicions found 11
+IOU 0.7534503255816818
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_167.jpg predicions found 12
+IOU 0.7439115019129122
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_231.jpg predicions found 2
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Achira/achira_102.jpg predicions found 7
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_78.jpg predicions found 7
+IOU 0.8142797059047483
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_159.jpg predicions found 28
+IOU 0.7836286542547563
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_218.jpg predicions found 5
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_156.jpg predicions found 47
+IOU 0.8782807176617873
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_41.jpg predicions found 46
+IOU 0.655269778706865
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_185.jpg predicions found 34
+IOU 0.7902458563927744
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_85.jpg predicions found 16
+IOU 0.69498601968373
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_133.jpg predicions found 9
+IOU 0.7586523146831404
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_151.jpg predicions found 11
+IOU 0.7947710432668876
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_65.jpg predicions found 8
+IOU 0.8804439861753423
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_34.jpg predicions found 6
+IOU 0.8842163791520837
+IOU 0.3739562713323949
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_231.jpg predicions found 8
+IOU 0.8333343538011008
+IOU 0.0
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_123.jpg predicions found 13
+IOU 0.7314070991141651
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_196.jpg predicions found 53
+IOU 0.752409525636697
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_230.jpg predicions found 10
+IOU 0.8639043068828759
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_165.jpg predicions found 21
+IOU 0.0
+IOU 0.6391476014324755
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_30.jpg predicions found 9
+IOU 0.8222568575096307
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_176.jpg predicions found 3
+IOU 0.688805129797263
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_18.jpg predicions found 3
+IOU 0.6789133559672239
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_74.jpg predicions found 8
+IOU 0.6922982459026091
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_143.jpg predicions found 11
+IOU 0.7587120975813461
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_8.jpg predicions found 4
+IOU 0.7967866933793931
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_141.jpg predicions found 14
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_152.jpg predicions found 4
+IOU 0.5878309170278428
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Estevia/estavia_129.jpg predicions found 6
+IOU 0.7595179243380983
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_301.jpg predicions found 45
+IOU 0.6793216649384252
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_76.jpg predicions found 29
+IOU 0.7125945813614237
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_35.jpg predicions found 15
+IOU 0.8779757426906748
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_70.jpg predicions found 12
+IOU 0.8537963944321167
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_65.jpg predicions found 16
+IOU 0.6793858480042156
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_276.jpg predicions found 2
+IOU 0.6329962715382537
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_28.jpg predicions found 9
+IOU 0.1715245862184035
+IOU 0.775662570095701
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_7.jpg predicions found 9
+IOU 0.759603709370048
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_205.jpg predicions found 42
+IOU 0.7994099506572696
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_262.jpg predicions found 17
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_152.jpg predicions found 12
+IOU 0.005249884556910231
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_17.jpg predicions found 46
+IOU 0.3817506001786659
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_79.jpg predicions found 59
+IOU 0.0
+IOU 0.0
+IOU 0.6543806485143806
+IOU 0.0
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_230.jpg predicions found 65
+IOU 0.7864898701155344
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_81.jpg predicions found 42
+IOU 0.9073562937480278
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_120.jpg predicions found 25
+IOU 0.6743184037773132
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_304.jpg predicions found 6
+IOU 0.6936229822982445
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_296.jpg predicions found 7
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_130.jpg predicions found 42
+IOU 0.7000317484087842
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_260.jpg predicions found 7
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_92.jpg predicions found 7
+IOU 0.7503797418642602
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_206.jpg predicions found 9
+IOU 0.866661969393411
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_9.jpg predicions found 15
+IOU 0.7394084072312602
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_222.jpg predicions found 5
+IOU 0.8350756829117895
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_242.jpg predicions found 28
+IOU 0.6570696710540226
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_145.jpg predicions found 20
+IOU 0.7205873894315399
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_295.jpg predicions found 19
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_59.jpg predicions found 42
+IOU 0.8600616269348454
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_132.jpg predicions found 14
+IOU 0.6094561957354815
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Savila/savila_169.jpg predicions found 3
+IOU 0.6475479912357152
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_37.jpg predicions found 1
+IOU 0.5625031890069315
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_89.jpg predicions found 18
+IOU 0.7068368324521418
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_262.jpg predicions found 20
+IOU 0.8379162659332288
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_39.jpg predicions found 4
+IOU 0.6513766753914754
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_260.jpg predicions found 16
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_156.jpg predicions found 6
+IOU 0.7516905367825351
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_111.jpg predicions found 16
+IOU 0.6356740821834881
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_247.jpg predicions found 7
+IOU 0.6276746373375571
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_149.jpg predicions found 38
+IOU 0.8007889803786928
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_117.jpg predicions found 24
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_21.jpg predicions found 12
+IOU 0.8223924984819081
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_32.jpg predicions found 37
+IOU 0.7816493699158678
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_35.jpg predicions found 32
+IOU 0.886458622605851
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_13.jpg predicions found 10
+IOU 0.7938931052647794
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_8.jpg predicions found 5
+IOU 0.8903560052718722
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_281.jpg predicions found 8
+IOU 0.8268749128871872
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_16.jpg predicions found 5
+IOU 0.8588098041338309
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_100.jpg predicions found 4
+IOU 0.7694069816897473
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_160.jpg predicions found 2
+IOU 0.8093803303290297
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_175.jpg predicions found 9
+IOU 0.6844221829944509
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_4.jpg predicions found 12
+IOU 0.8805788292032861
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_10.jpg predicions found 8
+IOU 0.7430886880070019
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_60.jpg predicions found 16
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_45.jpg predicions found 4
+IOU 0.44795235768528935
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_265.jpg predicions found 15
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_229.jpg predicions found 10
+IOU 0.6930844993082668
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_27.jpg predicions found 15
+IOU 0.7269487960804636
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ruda/ruda_200.jpg predicions found 18
+IOU 0.8308839522502838
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_261.jpg predicions found 18
+IOU 0.04715830118394901
+IOU 0.6436470240624552
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_251.jpg predicions found 9
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_133.jpg predicions found 7
+IOU 0.4153345815320765
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_182.jpg predicions found 31
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_287.jpg predicions found 20
+IOU 0.6417762382077793
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_24.jpg predicions found 46
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_296.jpg predicions found 7
+IOU 0.06854557553649981
+IOU 0.8233689869638364
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_80.jpg predicions found 23
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_136.jpg predicions found 4
+IOU 0.10811347014329749
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_194.jpg predicions found 5
+IOU 0.6903431945807647
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_294.jpg predicions found 5
+IOU 0.004244452851304059
+IOU 0.8051463013335501
+IOU 0.18547662339357573
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_139.jpg predicions found 13
+IOU 0.7641989290846569
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_247.jpg predicions found 14
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_20.jpg predicions found 9
+IOU 0.7861985410789645
+IOU 0.0825635028654204
+IOU 0.08420896460507801
+IOU 0.0883460789609541
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_278.jpg predicions found 9
+IOU 0.6551708294135209
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_107.jpg predicions found 4
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_276.jpg predicions found 2
+IOU 0.0
+IOU 0.0
+IOU 0.5415347323429809
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_96.jpg predicions found 7
+IOU 0.7007859875861643
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_87.jpg predicions found 48
+IOU 0.8495898611473777
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_49.jpg predicions found 3
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_309.jpg predicions found 40
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_273.jpg predicions found 15
+IOU 0.8688042768112049
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_280.jpg predicions found 2
+IOU 0.7588808454194163
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_269.jpg predicions found 25
+IOU 0.3299021234063593
+IOU 0.02742495721259789
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_68.jpg predicions found 64
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_270.jpg predicions found 19
+IOU 0.37116728709855984
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_262.jpg predicions found 6
+IOU 0.4094667198986579
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_110.jpg predicions found 14
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_235.jpg predicions found 26
+IOU 0.04875860419007619
+IOU 0.24402905387322962
+IOU 0.8087781350824584
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_230.jpg predicions found 9
+IOU 0.797136814352404
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Ajo/ajo_142.jpg predicions found 1
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_7.jpg predicions found 49
+IOU 0.8943368739564475
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_157.jpg predicions found 35
+IOU 0.8785085187610809
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_22.jpg predicions found 25
+IOU 0.7809705947959114
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_25.jpg predicions found 35
+IOU 0.8256708196177115
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_64.jpg predicions found 32
+IOU 0.88735111280629
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_74.jpg predicions found 53
+IOU 0.011746737310043099
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_204.jpg predicions found 1
+IOU 0.021322925069317628
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_218.jpg predicions found 2
+IOU 0.7972575760398749
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_21.jpg predicions found 6
+IOU 0.6931506015212315
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_93.jpg predicions found 27
+IOU 0.03956279634106352
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_209.jpg predicions found 14
+IOU 0.7559591708786069
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_76.jpg predicions found 61
+IOU 0.9346000435994636
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_29.jpg predicions found 21
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Limoncillo/limoncillo_39.jpg predicions found 20
+IOU 0.8706927401794923
+IOU 0.02065315153449575
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_86.jpg predicions found 14
+IOU 0.7159281113001347
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_10.jpg predicions found 7
+IOU 0.8659909052444424
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_42.jpg predicions found 6
+IOU 0.8718814648672664
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_257.jpg predicions found 6
+IOU 0.8300524199041042
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_22.jpg predicions found 39
+IOU 0.00012165781491936994
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_252.jpg predicions found 4
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_242.jpg predicions found 11
+IOU 0.6359632020381072
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_26.jpg predicions found 20
+IOU 0.7953517329488746
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_105.jpg predicions found 42
+IOU 0.7685230354906311
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_90.jpg predicions found 8
+IOU 0.019122936124532575
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_223.jpg predicions found 6
+IOU 0.8418684894345566
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_11.jpg predicions found 4
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_37.jpg predicions found 21
+IOU 0.008177908892693535
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_6.jpg predicions found 28
+IOU 0.8710169126530252
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_71.jpg predicions found 4
+IOU 0.0029231992571024015
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_66.jpg predicions found 2
+IOU 0.7397599202834643
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_40.jpg predicions found 16
+IOU 0.7065595876006329
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_117.jpg predicions found 35
+IOU 0.7440985570715352
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_249.jpg predicions found 3
+IOU 0.009908950444702249
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Cedron/cedron_83.jpg predicions found 36
+IOU 0.41949403600629104
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_288.jpg predicions found 12
+IOU 0.7404755203868052
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_87.jpg predicions found 18
+IOU 0.5773931761484308
+IOU 0.0
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_67.jpg predicions found 15
+IOU 0.0
+IOU 0.5147089205723601
+IOU 0.0
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_155.jpg predicions found 14
+IOU 0.7586320357254324
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_162.jpg predicions found 9
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_92.jpg predicions found 53
+IOU 0.7435813197613129
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_117.jpg predicions found 78
+IOU 0.6751141039659322
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_10.jpg predicions found 9
+IOU 0.8808401768268602
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_166.jpg predicions found 13
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_140.jpg predicions found 13
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_198.jpg predicions found 17
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_134.jpg predicions found 12
+IOU 0.6970028257008872
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_29.jpg predicions found 9
+IOU 0.847608826655132
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_156.jpg predicions found 18
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_183.jpg predicions found 2
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_24.jpg predicions found 1
+IOU 0.6348723627776679
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_252.jpg predicions found 16
+IOU 0.7042860537599281
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_266.jpg predicions found 2
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_180.jpg predicions found 8
+IOU 0.853506941714774
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_133.jpg predicions found 22
+IOU 0.8501695814121565
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_168.jpg predicions found 33
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_142.jpg predicions found 4
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_319.jpg predicions found 1
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_129.jpg predicions found 6
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_33.jpg predicions found 7
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_325.jpg predicions found 16
+IOU 0.926918148770029
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_303.jpg predicions found 72
+IOU 0.6288411748288727
+IOU 0.0037484115144590813
+IOU 0.002454696036189852
+IOU 0.016059654673482644
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_188.jpg predicions found 2
+IOU 0.7925995258170897
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_8.jpg predicions found 45
+IOU 0.7263978709215059
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_96.jpg predicions found 34
+IOU 0.004302283735350708
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Alfalfa/alfalfa_216.jpg predicions found 2
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_3.jpg predicions found 15
+IOU 0.7735222800879371
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_37.jpg predicions found 22
+IOU 0.8423592986697735
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_161.jpg predicions found 6
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_8.jpg predicions found 9
+IOU 0.0010015463295014763
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_214.jpg predicions found 7
+IOU 0.0013096315699520431
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_11.jpg predicions found 5
+IOU 0.8314792344821686
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_19.jpg predicions found 4
+IOU 0.0049574616476285895
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_236.jpg predicions found 21
+IOU 0.01553843522086378
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_47.jpg predicions found 24
+IOU 0.7830053507756385
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_183.jpg predicions found 11
+IOU 0.023260808456874213
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_201.jpg predicions found 2
+IOU 0.006187491693900158
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_75.jpg predicions found 7
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_221.jpg predicions found 35
+IOU 0.003867008200416525
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_192.jpg predicions found 49
+IOU 0.0038195368152288732
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_26.jpg predicions found 22
+IOU 0.0061373979239583674
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_139.jpg predicions found 13
+IOU 0.0
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_82.jpg predicions found 4
+IOU 0.7968555157419235
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_88.jpg predicions found 4
+/home/mbastidas/code/comparativa_frcnn_yolo_ssd/dataset/Planta Eucalipto/eucalipto_224.jpg predicions found 8
+IOU 0.8438435391507284
+Acertados 335 de 399 predicciones
+Porcentage 0.8395989974937343
+Tiempo de inferencia promedio 7.144366657 segundos
+IOU promedio ~ 0.5638336086937853
+IOU promedio ~ 0.5638336086937853
+achira 20 de 25 0.8
+ajo 33 de 49 0.673469387755102
+alfalfa 27 de 40 0.675
+canela 31 de 35 0.8857142857142857
+cedron 18 de 20 0.9
+diente leon 28 de 30 0.9333333333333333
+estevia 27 de 29 0.9310344827586207
+eucalipto 19 de 20 0.95
+limoncillo 15 de 16 0.9375
+llanten 17 de 18 0.9444444444444444
+manzanilla 22 de 26 0.8461538461538461
+ruda 24 de 29 0.8275862068965517
+savila 31 de 35 0.8857142857142857
+valeriana 23 de 27 0.8518518518518519
+Promedio de precisiones 0.8601287231873087
+loading annotations into memory...
+Done (t=0.00s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=0.00s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=0.17s).
+Accumulating evaluation results...
+DONE (t=0.08s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.302
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.556
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.298
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.305
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.349
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.364
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.364
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.366
